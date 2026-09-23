@@ -1,4 +1,4 @@
-# Git Practice
+# Git Practice - Jamie
 
 # An Article I Found Interesting
 From Coder to Orchestrator by Nicholas Zakas (https://humanwhocodes.com/blog/2026/01/coder-orchestrator-future-software-engineering/)
